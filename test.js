@@ -1,7 +1,8 @@
 const data = {
  "name": "avinsah",
 "age":"26",
-"location":"dubai"
+"location":"dubai",
+"hobby":"automation"
 }
 
 console.log(data)
